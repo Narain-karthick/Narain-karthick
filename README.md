@@ -1,53 +1,91 @@
-# Hi 👋, I'm Narain Karthick
+<p align="center">
+  <img src="./profile_github.png" width="100%" alt="Narain Karthick - Aspiring AI Engineer">
+</p>
 
-### 🤖 Artificial Intelligence & Data Science Engineering Student
+<h1 align="center">Hi 👋, I'm Narain Karthick</h1>
 
-I'm an **AI & Data Science Engineering student** passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development**.
+<h3 align="center">
+  🤖 AI & Data Science Student | Aspiring AI Engineer
+</h3>
 
-I enjoy turning real-world problems into working software through **AI-powered applications, automation, intelligent systems, and hackathon projects**.
+<p align="center">
+  <b>Building intelligent solutions for real-world problems.</b>
+</p>
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/narain-karthick/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Engineering student specializing in **Artificial Intelligence & Data Science**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning & Data Science**
-- 💻 Building projects with **Python, JavaScript, FastAPI, and SQL**
-- 🧠 Exploring **Generative AI, RAG, Computer Vision & AI Agents**
-- 🏆 Participating in **Hackathons & Innovation Challenges**
-- 📊 Interested in **Data Analysis, Visualization & Machine Learning**
-- 🌱 Currently improving my **DSA & Problem-Solving skills**
-- ⚡ Always learning, building, and experimenting with new technologies
+I'm an **Artificial Intelligence & Data Science Engineering student** passionate about building practical AI solutions.
+
+My interests include **Machine Learning, Generative AI, Computer Vision, Data Science, AI Agents, and NLP**.
+
+I enjoy taking a real-world problem, understanding it, and turning it into a working technology solution.
+
+- 🎓 Artificial Intelligence & Data Science Engineering Student
+- 🤖 Aspiring AI Engineer
+- 🧠 Exploring Generative AI, RAG & AI Agents
+- 📊 Interested in Machine Learning & Data Science
+- 💻 Building AI-powered applications and full-stack systems
+- 🏆 Hackathon participant and project builder
+- 🌱 Currently strengthening DSA & problem-solving skills
+
+---
+
+## 🧠 Areas of Interest
+
+<p align="center">
+
+`Artificial Intelligence` • `Machine Learning` • `Generative AI`
+
+`Computer Vision` • `Data Science` • `AI Agents` • `NLP`
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming
+### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 AI & Data Science
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🌐 Web Development
+### 🌐 Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### 🗄️ Databases & Cloud
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -55,14 +93,16 @@ I enjoy turning real-world problems into working software through **AI-powered a
 
 ---
 
-## 🔥 Featured Projects
+# 🚀 Featured Projects
 
-### 🏙️ CivicShield AI
-**Closed-Loop Civic Incident Intelligence & Response Platform**
+## 🏙️ CivicShield AI
 
-An AI-powered civic intelligence platform that transforms scattered citizen complaints into **verified civic incidents**.
+### Closed-Loop Civic Incident Intelligence & Resolution Verification
 
-**Key concepts:**
+An AI-powered civic intelligence platform that converts scattered citizen complaints into unified, actionable and verifiable civic incidents.
+
+### Key Features
+
 - Multimodal complaint processing
 - Incident fusion
 - Root-cause analysis
@@ -74,17 +114,9 @@ An AI-powered civic intelligence platform that transforms scattered citizen comp
 
 ---
 
-### 🎤 Prep2Hire
-**AI-Powered Interview Preparation Platform**
+## 🗳️ Secure Online Voting DApp
 
-A platform designed to help candidates prepare for interviews using AI-powered resume analysis and interview workflows.
-
-**Focus:** Python • FastAPI • AI • Resume Analysis • Interview Intelligence
-
----
-
-### 🗳️ Secure Online Voting DApp
-**Blockchain-Based Voting System**
+### Blockchain-Based Voting System
 
 A decentralized voting application designed to provide a transparent and tamper-resistant voting process.
 
@@ -92,64 +124,99 @@ A decentralized voting application designed to provide a transparent and tamper-
 
 ---
 
-### 🍱 Food Donation Portal
+## 🍱 Food Donation Portal
 
-A web-based platform designed to connect food donors with people or organizations that can utilize surplus food.
+A web platform designed to connect food donors with organizations and people who can make use of surplus food.
 
 **Focus:** Full-Stack Development • Database Management • Social Impact
 
 ---
 
-## 🏆 Achievements & Experience
+## 🎤 Prep2Hire
 
-- 🥇 **1st Place** — Science & Innovation Project Competition
-- 🏆 **Top 50** — RMK Innovate Hackathon 2026
-- 🏆 **Finalist** — InteroFest Hackathon 2K26
-- 💼 **AI & ML Internship** — UptoSkills
-- 📜 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
-- 📜 **BCG X Data Science Certification**
-- 📜 **Infosys Springboard Data Science Certification**
-- 📜 **Infosys Springboard Artificial Intelligence Foundation Certification**
+### AI-Powered Interview Preparation Platform
+
+An AI-powered platform designed to help candidates prepare for interviews through resume analysis, job-description matching and intelligent interview workflows.
+
+**Tech:** Python • FastAPI • AI • NLP • Resume Analysis
 
 ---
 
-## 📚 Currently Learning
+# 🏆 Achievements & Experience
+
+- 🥇 **1st Place** — Science & Innovation Project Competition
+- 🏆 **Top 10** — RMK Innovate Hackathon 2026
+- 🏆 **Finalist** — InteroFest Hackathon 2K26
+- 💼 **AI & ML Intern** — UptoSkills
+
+---
+
+# 📜 Certifications
+
+- **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+- **BCG X — Data Science Certification**
+- **Infosys Springboard — Data Science Certification**
+- **Infosys Springboard — Artificial Intelligence Foundation Certification**
+
+---
+
+# 📚 Currently Learning
 
 ```text
 Data Structures & Algorithms
-        ↓
+          ↓
 Machine Learning
-        ↓
+          ↓
+Deep Learning
+          ↓
 Generative AI
-        ↓
+          ↓
 RAG & AI Agents
-        ↓
-Production AI Systems
+          ↓
+Production AI Applications
 ```
 
-I'm currently focused on strengthening my **DSA, Machine Learning fundamentals, Generative AI, and real-world AI application development**.
+Currently focusing on strengthening my **DSA, Machine Learning fundamentals, Generative AI knowledge, and ability to build production-ready AI applications.**
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Narain-karthick&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narain-karthick&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Narain-karthick&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narain-karthick&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Narain-karthick&theme=tokyonight&hide_border=true">
 </p>
 
 ---
 
-## 🎯 My Goal
+# 🎯 My Goal
 
 > **Build AI systems that solve real-world problems — not just demonstrate AI.**
 
-I'm looking forward to collaborating on **AI, Machine Learning, Data Science, Generative AI, and impactful technology projects.**
+I want to grow into an **AI Engineer** who can combine machine learning, software engineering and problem-solving to build useful intelligent systems.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
-If you're interested in **AI, Data Science, Machine Learning, Hackathons, or building innovative projects**, feel free to connect and collaborate!
+<p align="center">
 
-⭐ Check out my repositories and let's build something meaningful.
+<a href="https://github.com/Narain-karthick">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/narain-karthick/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+
+⭐ Explore my repositories and let's build something meaningful.
+
+</p>

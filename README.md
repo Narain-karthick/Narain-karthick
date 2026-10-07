@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile_github.png" width="100%" alt="Narain Karthick - Aspiring AI Engineer">
+  <img src="./profile_github1.png" width="100%" alt="Narain Karthick - Aspiring AI Engineer">
 </p>
 
 <h1 align="center">Hi 👋, I'm Narain Karthick</h1>
